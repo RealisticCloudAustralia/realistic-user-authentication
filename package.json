@@ -12,6 +12,9 @@
   },
   "author": "Realistic Cloud Solutions",
   "license": "MIT",
+  "engines": {
+    "node": "6.9.2"
+  },    
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.17.1",
